@@ -3,6 +3,7 @@ A simple desktop To-Do List application built with Python, Tkinter (GUI), and SQ
 
 # Features
 1.Add new tasks with a single click
+
 2.View all tasks in a scrollable list
 3.Mark tasks as done or undo them
 4.Delete tasks permanently
